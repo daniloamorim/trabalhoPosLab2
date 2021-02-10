@@ -1,2 +1,2 @@
 # trabalhoPosLab2
-Um simulado de Conta Bancária simples com duas classes e alguns objetos para manipulação.
+Um simulado de Conta Bancária simples com três classes e alguns objetos para manipulação.
